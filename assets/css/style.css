@@ -183,3 +183,9 @@ hr {
     height: 100%;
     border-radius: 50%;
 }
+
+/* event times */
+
+#times {
+    background: url('../images/times-background.webp');
+}
